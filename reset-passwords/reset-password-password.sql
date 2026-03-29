@@ -1,4 +1,5 @@
-/*	
+borrar Rovlox -
+  /*	
  *	Reset all user's passwords to 'password'
  *	
  *	NOTE:  This script defaults to rolling back changes.
